@@ -1,5 +1,5 @@
 # learning-notes
-My personal notes on courses, Book, etc.
+#My personal notes on courses, Book, etc.
 
 ## [Machine learning course](./Machine_Learning_course) on [coursera](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 
