@@ -48,7 +48,7 @@ DNS is a converts hostnames into IP address. For example, `www.facebook.com` (ho
 
 DHCP enable a computer to automatically contact the local DHCP Server and request for an IP address and networking parameters to connect to the internet.
 
-
+### Importance of DHCP
 
 
 
