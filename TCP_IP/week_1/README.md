@@ -50,6 +50,3 @@ DHCP enable a computer to automatically contact the local DHCP Server and reques
 
 ### Importance of DHCP
 
-
-
-##
